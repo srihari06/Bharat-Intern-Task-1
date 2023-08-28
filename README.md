@@ -1,4 +1,4 @@
-Data Project - Stock Market Analysis
+Task - Stock Price Prediction using LSTM
 
 
 Time Series data is a series of data points indexed in time order. Time series data is everywhere, so manipulating them is important for any data analyst or data scientist.
