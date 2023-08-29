@@ -1,5 +1,4 @@
 Task - Stock Price Prediction using LSTM
-
 By Aluri Srihari Goud
 
 Introduction
