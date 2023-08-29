@@ -111,6 +111,7 @@ In this article, we explored LSTM and stock price using LSTM. We then visualized
 Reference:
 
 1.https://the-learning-machine.com/article/dl/long-short-term-memory
+
 2.https://www.kaggle.com/amarsharma768/stock-price-prediction-using-lstm/notebook
 
 
